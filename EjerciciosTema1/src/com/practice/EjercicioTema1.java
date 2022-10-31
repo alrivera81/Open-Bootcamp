@@ -12,7 +12,7 @@ public class EjercicioTema1 {
         double varDouble = 15.5d;
         boolean varBool = false;
         char varChar = 'v';
-        String varString = "Hello OpenBootcamp";
+        String varString = "Hello OpenBootcamp from Colombia";
         System.out.println("Tipo byte = " + varByte);
         System.out.println("Tipo short = " + varShort);
         System.out.println("Tipo int = " + varEntero);
